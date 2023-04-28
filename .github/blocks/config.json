@@ -4,6 +4,11 @@
       "owner": "githubnext",
       "repo": "blocks-examples",
       "id": "markdown-block"
+    },
+    {
+      "owner": "githubnext",
+      "repo": "blocks-examples",
+      "id": "*"
     }
   ]
 }
